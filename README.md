@@ -50,3 +50,8 @@ Once both frontend and backend servers are running:
 6. The AI-generated response will appear below.
 
 7. Click **"Copy to Clipboard"** to copy the reply for use in your email.
+
+## 📸 Demo Screenshot
+
+![App Screenshot](https://github.com/user-attachments/assets/49343a4f-a5d9-4be6-a5ee-73cbaa85aa69)
+
