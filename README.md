@@ -53,5 +53,6 @@ Once both frontend and backend servers are running:
 
 ## 📸 Demo Screenshot
 
-![App Screenshot](https://github.com/user-attachments/assets/49343a4f-a5d9-4be6-a5ee-73cbaa85aa69)
+
+<img width="1920" height="968" alt="Screenshot 2025-07-13 163318" src="https://github.com/user-attachments/assets/2fcf0e06-268c-463a-bdfc-5c8bbf0e1bf0" />
 
