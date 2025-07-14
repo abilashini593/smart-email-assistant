@@ -51,9 +51,6 @@ Once both frontend and backend servers are running:
 
 7. Click **"Copy to Clipboard"** to copy the reply for use in your email.
 
-## 📸 Demo Screenshot
 
-
-[Email Reply Generator Demo](https://github.com/user-attachments/assets/63d46b14-53a5-4d1f-af21-ad3e06736614)
 
 
